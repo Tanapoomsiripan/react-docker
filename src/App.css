@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background: #CC99FF	 ;  
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+  margin: 0;
+}
+Form{
+  text-align: center;
+  text-size-adjust: 20px;
+}
+label{
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+h1{
+color:rgb(207, 74, 96);
+margin-left: 20px;
+}
+
+
+div{
+  margin-top: 5px;
+  text-align: center;
+}
+
+.form{
+  padding-top: 20px;
+}
+
